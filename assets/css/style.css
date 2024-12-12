@@ -1,0 +1,18 @@
+body{
+  color: #273c48;
+  background-image: url(../images/3d-workstation-with-computer-peripheral-devices.jpg);
+  background-size:cover;
+}
+div.btn:hover {
+  color:white !important;
+  background: #273c48;
+}
+.bg-color{
+  background-image: url(../images/wallpaber\ \(2\).jpg);
+background-size: cover;
+}
+.vh-90{
+  background-image: url(../images/wallpaber\ \(1\).jpg);
+  background-size: cover;
+  color: #273c48 !important;
+}
